@@ -1,6 +1,6 @@
 {
   "name": "자기소개 페이지",
   "tagline": "",
-  "body": "# 소개 페이지\r\n## 부제목\r\n\r\n상세한 설명들",
+  "body": "# 소개 페이지\r\n## 부제목\r\n\r\n상세한 설명들\r\n```ruby\r\nputs \"Hello World!\"\r\nputs \"hi\"\r\n```\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
